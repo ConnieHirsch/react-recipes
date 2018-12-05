@@ -1,0 +1,11 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "test program",
+  "main": "index.js",
+  "author": "connie.hirsch@gmail.com",
+  "license": "yes",
+  "scripts": {
+    "start" : "node ./index"
+  }
+}
